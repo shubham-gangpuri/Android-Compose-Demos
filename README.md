@@ -1,10 +1,8 @@
-# Android Compose Demos
+# Android Compose Demos (Simple Compose Examples)
 
 This project demonstrates simple UI components like TextView, Button, Snackbar, ImageView, ConstraintLayout and a List implementation with Compose Jetpack component.
 
-# Simple Compose Examples
-
-# Android Jetpack Components Used :
+# Android Jetpack Component Used :
 ```
 Jetpack Compose
 ```
