@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ComposeActivity</string>
+    <string name="app_name">Compose Demos</string>
+    <string name="simple_button">Simple Button</string>
+    <string name="rounded_button">Rounded Button</string>
 </resources>
