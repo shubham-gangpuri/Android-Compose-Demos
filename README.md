@@ -21,3 +21,5 @@ Jetpack Compose
 10. ConstraintLayout
 11. Simple List
 ```
+# Screenshot of Emulator :
+<img width="322" alt="Screenshot 2022-06-11 at 17 20 53" src="https://user-images.githubusercontent.com/12691162/173196243-b8b1c3a8-7186-4bbb-b5ea-4eff1ba65e09.png">
